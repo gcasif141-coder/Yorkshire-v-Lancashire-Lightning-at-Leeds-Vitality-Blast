@@ -1,6 +1,6 @@
-# Yorkshire-v-Lancashire-Lightning-at-Leeds-Vitality-Blast
+## Yorkshire v Lancashire Lightning at Leeds – Vitality Blast
 
-Yorkshire v Lancashire Lightning at Leeds, Vitality Blast ...
+Yorkshire and Lancashire Lightning are two well-known cricket sides with a strong rivalry in the Vitality Blast. This page shares basic match information, venue details, and useful viewing updates for fans looking for event-related information.
 
 <p align="center">
   <a href="https://cjewz.com/af?o=ba1ef88521834a2427ffdaba50471382:4d3ff4b58bc647b836235dfe5f92769a&v=cricket" target="_blank">
@@ -8,18 +8,20 @@ Yorkshire v Lancashire Lightning at Leeds, Vitality Blast ...
   </a>
 </p>
 
-## Match Preview
+## Match Information
 
-Yorkshire v Lancashire Lightning at Leeds is part of the Vitality Blast cricket schedule. Fans can check event details, match timing, team updates, and available viewing information from official and partner sources.
-
-## Event Details
-
-- Match: Yorkshire vs Lancashire Lightning
-- Venue: Leeds
+- Event: Yorkshire v Lancashire Lightning
 - Tournament: Vitality Blast
-- Category: Cricket
+- Venue: Leeds
+- Sport: Cricket
+- Page Type: Event information and partner link resource
 
-## Important Notice
+## Fan Note
 
-This page provides event information and external partner links only. We do not host, stream, or upload copyrighted sports content.
+Always check official broadcasters and verified sources for final match timing, team updates, and availability in your region.
+
+## Disclaimer
+
+This page does not host or upload any live stream, copyrighted video, or broadcast content. External links may lead to partner or promotional pages.
+
 
